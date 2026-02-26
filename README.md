@@ -1,4 +1,4 @@
-# NIHL National Schedule Scraper
+# NIHL Match and Stat Scraper
 
 A Python-based web scraper designed to extract hockey game schedules, scores, and team information from the **NIHL National** website. It processes the hierarchical HTML structure of the schedule page and converts it into a structured, machine-readable JSON format.
 
