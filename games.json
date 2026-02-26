@@ -1,0 +1,2081 @@
+[
+    {
+        "date": "Saturday 20 Sep 2025",
+        "time": "18:30",
+        "home": "Leeds Knights",
+        "away": "Telford Tigers",
+        "score": "4:7"
+    },
+    {
+        "date": "Saturday 20 Sep 2025",
+        "time": "18:30",
+        "home": "Swindon Wildcats",
+        "away": "Solway Sharks",
+        "score": "3:1"
+    },
+    {
+        "date": "Saturday 20 Sep 2025",
+        "time": "19:00",
+        "home": "Milton Keynes Lightning",
+        "away": "Bristol Pitbulls",
+        "score": "7:2"
+    },
+    {
+        "date": "Saturday 20 Sep 2025",
+        "time": "19:00",
+        "home": "Sheffield Steeldogs",
+        "away": "Hull Seahawks",
+        "score": "5:3"
+    },
+    {
+        "date": "Sunday 21 Sep 2025",
+        "time": "17:00",
+        "home": "Bristol Pitbulls",
+        "away": "Solway Sharks",
+        "score": "6:2"
+    },
+    {
+        "date": "Sunday 21 Sep 2025",
+        "time": "17:15",
+        "home": "Romford Raiders",
+        "away": "Sheffield Steeldogs",
+        "score": "3:4 OT"
+    },
+    {
+        "date": "Sunday 21 Sep 2025",
+        "time": "17:30",
+        "home": "Hull Seahawks",
+        "away": "Swindon Wildcats",
+        "score": "2:4"
+    },
+    {
+        "date": "Sunday 21 Sep 2025",
+        "time": "17:30",
+        "home": "Peterborough Phantoms",
+        "away": "Leeds Knights",
+        "score": "4:3"
+    },
+    {
+        "date": "Sunday 21 Sep 2025",
+        "time": "18:00",
+        "home": "Telford Tigers",
+        "away": "Milton Keynes Lightning",
+        "score": "6:3"
+    },
+    {
+        "date": "Friday 26 Sep 2025",
+        "time": "19:30",
+        "home": "Sheffield Steeldogs",
+        "away": "Peterborough Phantoms",
+        "score": "5:6 SO"
+    },
+    {
+        "date": "Saturday 27 Sep 2025",
+        "time": "18:30",
+        "home": "Swindon Wildcats",
+        "away": "Romford Raiders",
+        "score": "5:4"
+    },
+    {
+        "date": "Saturday 27 Sep 2025",
+        "time": "19:00",
+        "home": "Bristol Pitbulls",
+        "away": "Leeds Knights",
+        "score": "2:8"
+    },
+    {
+        "date": "Saturday 27 Sep 2025",
+        "time": "19:00",
+        "home": "Milton Keynes Lightning",
+        "away": "Solway Sharks",
+        "score": "4:0"
+    },
+    {
+        "date": "Saturday 27 Sep 2025",
+        "time": "19:00",
+        "home": "Peterborough Phantoms",
+        "away": "Telford Tigers",
+        "score": "5:4 SO"
+    },
+    {
+        "date": "Sunday 28 Sep 2025",
+        "time": "16:00",
+        "home": "Sheffield Steeldogs",
+        "away": "Swindon Wildcats",
+        "score": "1:4"
+    },
+    {
+        "date": "Sunday 28 Sep 2025",
+        "time": "17:15",
+        "home": "Leeds Knights",
+        "away": "Bristol Pitbulls",
+        "score": "8:2"
+    },
+    {
+        "date": "Sunday 28 Sep 2025",
+        "time": "17:15",
+        "home": "Romford Raiders",
+        "away": "Solway Sharks",
+        "score": "7:6"
+    },
+    {
+        "date": "Sunday 28 Sep 2025",
+        "time": "17:30",
+        "home": "Hull Seahawks",
+        "away": "Milton Keynes Lightning",
+        "score": "2:3 OT"
+    },
+    {
+        "date": "Sunday 28 Sep 2025",
+        "time": "18:00",
+        "home": "Telford Tigers",
+        "away": "Basingstoke Bison",
+        "score": "7:5"
+    },
+    {
+        "date": "Friday 3 Oct 2025",
+        "time": "19:30",
+        "home": "Sheffield Steeldogs",
+        "away": "Solway Sharks",
+        "score": "5:6"
+    },
+    {
+        "date": "Saturday 4 Oct 2025",
+        "time": "17:15",
+        "home": "Romford Raiders",
+        "away": "Leeds Knights",
+        "score": "3:4"
+    },
+    {
+        "date": "Saturday 4 Oct 2025",
+        "time": "18:30",
+        "home": "Swindon Wildcats",
+        "away": "Hull Seahawks",
+        "score": "4:3"
+    },
+    {
+        "date": "Saturday 4 Oct 2025",
+        "time": "19:00",
+        "home": "Bristol Pitbulls",
+        "away": "Sheffield Steeldogs",
+        "score": "2:3 OT"
+    },
+    {
+        "date": "Saturday 4 Oct 2025",
+        "time": "19:00",
+        "home": "Milton Keynes Lightning",
+        "away": "Peterborough Phantoms",
+        "score": "8:4"
+    },
+    {
+        "date": "Sunday 5 Oct 2025",
+        "time": "17:15",
+        "home": "Leeds Knights",
+        "away": "Romford Raiders",
+        "score": "5:2"
+    },
+    {
+        "date": "Sunday 5 Oct 2025",
+        "time": "17:30",
+        "home": "Hull Seahawks",
+        "away": "Solway Sharks",
+        "score": "9:2"
+    },
+    {
+        "date": "Sunday 5 Oct 2025",
+        "time": "17:30",
+        "home": "Peterborough Phantoms",
+        "away": "Swindon Wildcats",
+        "score": "2:1 OT"
+    },
+    {
+        "date": "Sunday 5 Oct 2025",
+        "time": "18:00",
+        "home": "Telford Tigers",
+        "away": "Bristol Pitbulls",
+        "score": "9:4"
+    },
+    {
+        "date": "Saturday 11 Oct 2025",
+        "time": "17:15",
+        "home": "Romford Raiders",
+        "away": "Telford Tigers",
+        "score": "5:3"
+    },
+    {
+        "date": "Saturday 11 Oct 2025",
+        "time": "18:30",
+        "home": "Swindon Wildcats",
+        "away": "Sheffield Steeldogs",
+        "score": "5:2"
+    },
+    {
+        "date": "Saturday 11 Oct 2025",
+        "time": "19:00",
+        "home": "Bristol Pitbulls",
+        "away": "Basingstoke Bison",
+        "score": "2:5"
+    },
+    {
+        "date": "Saturday 11 Oct 2025",
+        "time": "19:00",
+        "home": "Milton Keynes Lightning",
+        "away": "Leeds Knights",
+        "score": "2:5"
+    },
+    {
+        "date": "Saturday 11 Oct 2025",
+        "time": "19:00",
+        "home": "Peterborough Phantoms",
+        "away": "Hull Seahawks",
+        "score": "4:3"
+    },
+    {
+        "date": "Sunday 12 Oct 2025",
+        "time": "16:00",
+        "home": "Sheffield Steeldogs",
+        "away": "Milton Keynes Lightning",
+        "score": "3:2 OT"
+    },
+    {
+        "date": "Sunday 12 Oct 2025",
+        "time": "16:00",
+        "home": "Basingstoke Bison",
+        "away": "Swindon Wildcats",
+        "score": "0:2"
+    },
+    {
+        "date": "Sunday 12 Oct 2025",
+        "time": "17:15",
+        "home": "Leeds Knights",
+        "away": "Solway Sharks",
+        "score": "6:2"
+    },
+    {
+        "date": "Sunday 12 Oct 2025",
+        "time": "17:30",
+        "home": "Hull Seahawks",
+        "away": "Romford Raiders",
+        "score": "6:1"
+    },
+    {
+        "date": "Sunday 12 Oct 2025",
+        "time": "18:00",
+        "home": "Telford Tigers",
+        "away": "Peterborough Phantoms",
+        "score": "4:1"
+    },
+    {
+        "date": "Friday 17 Oct 2025",
+        "time": "19:30",
+        "home": "Sheffield Steeldogs",
+        "away": "Leeds Knights",
+        "score": "2:3"
+    },
+    {
+        "date": "Saturday 18 Oct 2025",
+        "time": "18:30",
+        "home": "Swindon Wildcats",
+        "away": "Peterborough Phantoms",
+        "score": "5:1"
+    },
+    {
+        "date": "Saturday 18 Oct 2025",
+        "time": "19:00",
+        "home": "Bristol Pitbulls",
+        "away": "Hull Seahawks",
+        "score": "9:4"
+    },
+    {
+        "date": "Saturday 18 Oct 2025",
+        "time": "19:00",
+        "home": "Milton Keynes Lightning",
+        "away": "Telford Tigers",
+        "score": "7:5"
+    },
+    {
+        "date": "Saturday 18 Oct 2025",
+        "time": "19:00",
+        "home": "Sheffield Steeldogs",
+        "away": "Romford Raiders",
+        "score": "9:6"
+    },
+    {
+        "date": "Sunday 19 Oct 2025",
+        "time": "17:15",
+        "home": "Leeds Knights",
+        "away": "Milton Keynes Lightning",
+        "score": "6:2"
+    },
+    {
+        "date": "Sunday 19 Oct 2025",
+        "time": "17:15",
+        "home": "Romford Raiders",
+        "away": "Bristol Pitbulls",
+        "score": "4:3 SO"
+    },
+    {
+        "date": "Sunday 19 Oct 2025",
+        "time": "17:30",
+        "home": "Hull Seahawks",
+        "away": "Basingstoke Bison",
+        "score": "5:2"
+    },
+    {
+        "date": "Sunday 19 Oct 2025",
+        "time": "17:30",
+        "home": "Peterborough Phantoms",
+        "away": "Solway Sharks",
+        "score": "6:5 SO"
+    },
+    {
+        "date": "Sunday 19 Oct 2025",
+        "time": "18:00",
+        "home": "Telford Tigers",
+        "away": "Swindon Wildcats",
+        "score": "4:3"
+    },
+    {
+        "date": "Friday 24 Oct 2025",
+        "time": "19:30",
+        "home": "Bristol Pitbulls",
+        "away": "Milton Keynes Lightning",
+        "score": "5:2"
+    },
+    {
+        "date": "Friday 24 Oct 2025",
+        "time": "19:30",
+        "home": "Solway Sharks",
+        "away": "Leeds Knights",
+        "score": "2:3"
+    },
+    {
+        "date": "Friday 24 Oct 2025",
+        "time": "19:30",
+        "home": "Swindon Wildcats",
+        "away": "Basingstoke Bison",
+        "score": "7:1"
+    },
+    {
+        "date": "Saturday 25 Oct 2025",
+        "time": "16:00",
+        "home": "Sheffield Steeldogs",
+        "away": "Bristol Pitbulls",
+        "score": "6:3"
+    },
+    {
+        "date": "Saturday 25 Oct 2025",
+        "time": "17:15",
+        "home": "Romford Raiders",
+        "away": "Hull Seahawks",
+        "score": "1:7"
+    },
+    {
+        "date": "Saturday 25 Oct 2025",
+        "time": "18:30",
+        "home": "Basingstoke Bison",
+        "away": "Peterborough Phantoms",
+        "score": "1:5"
+    },
+    {
+        "date": "Saturday 25 Oct 2025",
+        "time": "19:00",
+        "home": "Milton Keynes Lightning",
+        "away": "Swindon Wildcats",
+        "score": "2:1 OT"
+    },
+    {
+        "date": "Saturday 25 Oct 2025",
+        "time": "19:00",
+        "home": "Telford Tigers",
+        "away": "Solway Sharks",
+        "score": "6:5 SO"
+    },
+    {
+        "date": "Sunday 26 Oct 2025",
+        "time": "17:15",
+        "home": "Leeds Knights",
+        "away": "Sheffield Steeldogs",
+        "score": "2:6"
+    },
+    {
+        "date": "Sunday 26 Oct 2025",
+        "time": "17:30",
+        "home": "Hull Seahawks",
+        "away": "Telford Tigers",
+        "score": "5:3"
+    },
+    {
+        "date": "Sunday 26 Oct 2025",
+        "time": "17:30",
+        "home": "Peterborough Phantoms",
+        "away": "Romford Raiders",
+        "score": "3:5"
+    },
+    {
+        "date": "Wednesday 29 Oct 2025",
+        "time": "19:15",
+        "home": "Romford Raiders",
+        "away": "Peterborough Phantoms",
+        "score": "7:3"
+    },
+    {
+        "date": "Wednesday 29 Oct 2025",
+        "time": "19:30",
+        "home": "Milton Keynes Lightning",
+        "away": "Basingstoke Bison",
+        "score": "6:4"
+    },
+    {
+        "date": "Wednesday 29 Oct 2025",
+        "time": "19:30",
+        "home": "Telford Tigers",
+        "away": "Sheffield Steeldogs",
+        "score": "2:8"
+    },
+    {
+        "date": "Thursday 30 Oct 2025",
+        "time": "19:30",
+        "home": "Leeds Knights",
+        "away": "Hull Seahawks",
+        "score": "5:1"
+    },
+    {
+        "date": "Thursday 30 Oct 2025",
+        "time": "19:30",
+        "home": "Swindon Wildcats",
+        "away": "Bristol Pitbulls",
+        "score": "3:1"
+    },
+    {
+        "date": "Friday 31 Oct 2025",
+        "time": "19:30",
+        "home": "Sheffield Steeldogs",
+        "away": "Solway Sharks",
+        "score": "8:3"
+    },
+    {
+        "date": "Saturday 1 Nov 2025",
+        "time": "17:30",
+        "home": "Hull Seahawks",
+        "away": "Peterborough Phantoms",
+        "score": "5:4 OT"
+    },
+    {
+        "date": "Saturday 1 Nov 2025",
+        "time": "18:30",
+        "home": "Leeds Knights",
+        "away": "Telford Tigers",
+        "score": "7:2"
+    },
+    {
+        "date": "Saturday 1 Nov 2025",
+        "time": "18:30",
+        "home": "Basingstoke Bison",
+        "away": "Milton Keynes Lightning",
+        "score": "5:4"
+    },
+    {
+        "date": "Saturday 1 Nov 2025",
+        "time": "19:00",
+        "home": "Bristol Pitbulls",
+        "away": "Romford Raiders",
+        "score": "3:8"
+    },
+    {
+        "date": "Saturday 1 Nov 2025",
+        "time": "19:00",
+        "home": "Solway Sharks",
+        "away": "Swindon Wildcats",
+        "score": "5:3"
+    },
+    {
+        "date": "Sunday 2 Nov 2025",
+        "time": "17:00",
+        "home": "Solway Sharks",
+        "away": "Swindon Wildcats",
+        "score": "1:2 SO"
+    },
+    {
+        "date": "Sunday 2 Nov 2025",
+        "time": "17:15",
+        "home": "Romford Raiders",
+        "away": "Bristol Pitbulls",
+        "score": "3:4 OT"
+    },
+    {
+        "date": "Sunday 2 Nov 2025",
+        "time": "17:30",
+        "home": "Milton Keynes Lightning",
+        "away": "Sheffield Steeldogs",
+        "score": "2:3 SO"
+    },
+    {
+        "date": "Sunday 2 Nov 2025",
+        "time": "17:30",
+        "home": "Peterborough Phantoms",
+        "away": "Hull Seahawks",
+        "score": "5:2"
+    },
+    {
+        "date": "Sunday 2 Nov 2025",
+        "time": "18:00",
+        "home": "Telford Tigers",
+        "away": "Leeds Knights",
+        "score": "6:1"
+    },
+    {
+        "date": "Saturday 8 Nov 2025",
+        "time": "18:30",
+        "home": "Swindon Wildcats",
+        "away": "Telford Tigers",
+        "score": "4:3"
+    },
+    {
+        "date": "Saturday 8 Nov 2025",
+        "time": "18:30",
+        "home": "Basingstoke Bison",
+        "away": "Bristol Pitbulls",
+        "score": "3:2"
+    },
+    {
+        "date": "Saturday 8 Nov 2025",
+        "time": "19:00",
+        "home": "Milton Keynes Lightning",
+        "away": "Hull Seahawks",
+        "score": "1:3"
+    },
+    {
+        "date": "Saturday 8 Nov 2025",
+        "time": "19:00",
+        "home": "Sheffield Steeldogs",
+        "away": "Peterborough Phantoms",
+        "score": "6:2"
+    },
+    {
+        "date": "Saturday 8 Nov 2025",
+        "time": "19:00",
+        "home": "Solway Sharks",
+        "away": "Romford Raiders",
+        "score": "4:5 SO"
+    },
+    {
+        "date": "Sunday 9 Nov 2025",
+        "time": "17:00",
+        "home": "Bristol Pitbulls",
+        "away": "Telford Tigers",
+        "score": "4:5 OT"
+    },
+    {
+        "date": "Sunday 9 Nov 2025",
+        "time": "17:00",
+        "home": "Solway Sharks",
+        "away": "Romford Raiders",
+        "score": "4:1"
+    },
+    {
+        "date": "Sunday 9 Nov 2025",
+        "time": "17:15",
+        "home": "Leeds Knights",
+        "away": "Basingstoke Bison",
+        "score": "2:3 OT"
+    },
+    {
+        "date": "Sunday 9 Nov 2025",
+        "time": "17:30",
+        "home": "Hull Seahawks",
+        "away": "Sheffield Steeldogs",
+        "score": "4:5"
+    },
+    {
+        "date": "Sunday 9 Nov 2025",
+        "time": "17:30",
+        "home": "Peterborough Phantoms",
+        "away": "Milton Keynes Lightning",
+        "score": "4:5"
+    },
+    {
+        "date": "Friday 14 Nov 2025",
+        "time": "19:30",
+        "home": "Bristol Pitbulls",
+        "away": "Swindon Wildcats",
+        "score": "1:3"
+    },
+    {
+        "date": "Saturday 15 Nov 2025",
+        "time": "18:30",
+        "home": "Leeds Knights",
+        "away": "Peterborough Phantoms",
+        "score": "6:2"
+    },
+    {
+        "date": "Saturday 15 Nov 2025",
+        "time": "18:30",
+        "home": "Basingstoke Bison",
+        "away": "Sheffield Steeldogs",
+        "score": "1:0"
+    },
+    {
+        "date": "Saturday 15 Nov 2025",
+        "time": "19:00",
+        "home": "Milton Keynes Lightning",
+        "away": "Romford Raiders",
+        "score": "5:2"
+    },
+    {
+        "date": "Saturday 15 Nov 2025",
+        "time": "19:00",
+        "home": "Solway Sharks",
+        "away": "Bristol Pitbulls",
+        "score": "4:5 OT"
+    },
+    {
+        "date": "Saturday 15 Nov 2025",
+        "time": "19:00",
+        "home": "Telford Tigers",
+        "away": "Hull Seahawks",
+        "score": "1:5"
+    },
+    {
+        "date": "Sunday 16 Nov 2025",
+        "time": "16:00",
+        "home": "Sheffield Steeldogs",
+        "away": "Telford Tigers",
+        "score": "1:2"
+    },
+    {
+        "date": "Sunday 16 Nov 2025",
+        "time": "17:15",
+        "home": "Romford Raiders",
+        "away": "Solway Sharks",
+        "score": "4:6"
+    },
+    {
+        "date": "Sunday 16 Nov 2025",
+        "time": "17:30",
+        "home": "Hull Seahawks",
+        "away": "Leeds Knights",
+        "score": "3:2"
+    },
+    {
+        "date": "Sunday 16 Nov 2025",
+        "time": "17:30",
+        "home": "Peterborough Phantoms",
+        "away": "Basingstoke Bison",
+        "score": "3:4 SO"
+    },
+    {
+        "date": "Sunday 16 Nov 2025",
+        "time": "18:30",
+        "home": "Swindon Wildcats",
+        "away": "Milton Keynes Lightning",
+        "score": "4:2"
+    },
+    {
+        "date": "Friday 21 Nov 2025",
+        "time": "19:30",
+        "home": "Sheffield Steeldogs",
+        "away": "Hull Seahawks",
+        "score": "7:1"
+    },
+    {
+        "date": "Saturday 22 Nov 2025",
+        "time": "18:30",
+        "home": "Swindon Wildcats",
+        "away": "Leeds Knights",
+        "score": "1:4"
+    },
+    {
+        "date": "Saturday 22 Nov 2025",
+        "time": "18:30",
+        "home": "Basingstoke Bison",
+        "away": "Telford Tigers",
+        "score": "3:1"
+    },
+    {
+        "date": "Saturday 22 Nov 2025",
+        "time": "19:00",
+        "home": "Bristol Pitbulls",
+        "away": "Peterborough Phantoms",
+        "score": "6:5 SO"
+    },
+    {
+        "date": "Saturday 22 Nov 2025",
+        "time": "19:00",
+        "home": "Milton Keynes Lightning",
+        "away": "Solway Sharks",
+        "score": "5:4"
+    },
+    {
+        "date": "Saturday 22 Nov 2025",
+        "time": "19:00",
+        "home": "Sheffield Steeldogs",
+        "away": "Romford Raiders",
+        "score": "1:2 OT"
+    },
+    {
+        "date": "Sunday 23 Nov 2025",
+        "time": "17:00",
+        "home": "Solway Sharks",
+        "away": "Hull Seahawks",
+        "score": "2:6"
+    },
+    {
+        "date": "Sunday 23 Nov 2025",
+        "time": "17:15",
+        "home": "Romford Raiders",
+        "away": "Basingstoke Bison",
+        "score": "5:0"
+    },
+    {
+        "date": "Sunday 23 Nov 2025",
+        "time": "17:30",
+        "home": "Peterborough Phantoms",
+        "away": "Bristol Pitbulls",
+        "score": "6:2"
+    },
+    {
+        "date": "Sunday 23 Nov 2025",
+        "time": "18:00",
+        "home": "Leeds Knights",
+        "away": "Milton Keynes Lightning",
+        "score": "3:2"
+    },
+    {
+        "date": "Sunday 23 Nov 2025",
+        "time": "18:00",
+        "home": "Telford Tigers",
+        "away": "Swindon Wildcats",
+        "score": "5:7"
+    },
+    {
+        "date": "Saturday 29 Nov 2025",
+        "time": "18:30",
+        "home": "Leeds Knights",
+        "away": "Romford Raiders",
+        "score": "3:0"
+    },
+    {
+        "date": "Saturday 29 Nov 2025",
+        "time": "18:30",
+        "home": "Swindon Wildcats",
+        "away": "Telford Tigers",
+        "score": "6:3"
+    },
+    {
+        "date": "Saturday 29 Nov 2025",
+        "time": "19:00",
+        "home": "Bristol Pitbulls",
+        "away": "Basingstoke Bison",
+        "score": "5:6 SO"
+    },
+    {
+        "date": "Saturday 29 Nov 2025",
+        "time": "19:00",
+        "home": "Milton Keynes Lightning",
+        "away": "Sheffield Steeldogs",
+        "score": "3:4 SO"
+    },
+    {
+        "date": "Saturday 29 Nov 2025",
+        "time": "19:00",
+        "home": "Solway Sharks",
+        "away": "Peterborough Phantoms",
+        "score": "3:4 OT"
+    },
+    {
+        "date": "Sunday 30 Nov 2025",
+        "time": "16:15",
+        "home": "Basingstoke Bison",
+        "away": "Leeds Knights",
+        "score": "0:2"
+    },
+    {
+        "date": "Sunday 30 Nov 2025",
+        "time": "17:00",
+        "home": "Solway Sharks",
+        "away": "Peterborough Phantoms",
+        "score": "4:5"
+    },
+    {
+        "date": "Sunday 30 Nov 2025",
+        "time": "17:15",
+        "home": "Romford Raiders",
+        "away": "Milton Keynes Lightning",
+        "score": "9:5"
+    },
+    {
+        "date": "Sunday 30 Nov 2025",
+        "time": "17:30",
+        "home": "Hull Seahawks",
+        "away": "Bristol Pitbulls",
+        "score": "6:8"
+    },
+    {
+        "date": "Sunday 30 Nov 2025",
+        "time": "18:00",
+        "home": "Telford Tigers",
+        "away": "Sheffield Steeldogs",
+        "score": "2:3"
+    },
+    {
+        "date": "Friday 5 Dec 2025",
+        "time": "19:30",
+        "home": "Basingstoke Bison",
+        "away": "Telford Tigers",
+        "score": "1:2 SO"
+    },
+    {
+        "date": "Saturday 6 Dec 2025",
+        "time": "18:30",
+        "home": "Swindon Wildcats",
+        "away": "Solway Sharks",
+        "score": "10:1"
+    },
+    {
+        "date": "Saturday 6 Dec 2025",
+        "time": "18:30",
+        "home": "Basingstoke Bison",
+        "away": "Hull Seahawks",
+        "score": "1:5"
+    },
+    {
+        "date": "Saturday 6 Dec 2025",
+        "time": "19:00",
+        "home": "Bristol Pitbulls",
+        "away": "Milton Keynes Lightning",
+        "score": "5:4 OT"
+    },
+    {
+        "date": "Saturday 6 Dec 2025",
+        "time": "19:00",
+        "home": "Peterborough Phantoms",
+        "away": "Sheffield Steeldogs",
+        "score": "2:3 OT"
+    },
+    {
+        "date": "Saturday 6 Dec 2025",
+        "time": "19:00",
+        "home": "Telford Tigers",
+        "away": "Romford Raiders",
+        "score": "4:3"
+    },
+    {
+        "date": "Sunday 7 Dec 2025",
+        "time": "16:00",
+        "home": "Sheffield Steeldogs",
+        "away": "Basingstoke Bison",
+        "score": "7:1"
+    },
+    {
+        "date": "Sunday 7 Dec 2025",
+        "time": "16:15",
+        "home": "Leeds Knights",
+        "away": "Solway Sharks",
+        "score": "5:1"
+    },
+    {
+        "date": "Sunday 7 Dec 2025",
+        "time": "17:15",
+        "home": "Romford Raiders",
+        "away": "Swindon Wildcats",
+        "score": "1:4"
+    },
+    {
+        "date": "Sunday 7 Dec 2025",
+        "time": "17:30",
+        "home": "Hull Seahawks",
+        "away": "Peterborough Phantoms",
+        "score": "5:4 SO"
+    },
+    {
+        "date": "Sunday 7 Dec 2025",
+        "time": "17:30",
+        "home": "Milton Keynes Lightning",
+        "away": "Bristol Pitbulls",
+        "score": "8:3"
+    },
+    {
+        "date": "Saturday 13 Dec 2025",
+        "time": "17:30",
+        "home": "Hull Seahawks",
+        "away": "Romford Raiders",
+        "score": "6:5 OT"
+    },
+    {
+        "date": "Saturday 13 Dec 2025",
+        "time": "18:30",
+        "home": "Basingstoke Bison",
+        "away": "Sheffield Steeldogs",
+        "score": "2:4"
+    },
+    {
+        "date": "Saturday 13 Dec 2025",
+        "time": "19:00",
+        "home": "Bristol Pitbulls",
+        "away": "Telford Tigers",
+        "score": "5:4"
+    },
+    {
+        "date": "Saturday 13 Dec 2025",
+        "time": "19:00",
+        "home": "Milton Keynes Lightning",
+        "away": "Leeds Knights",
+        "score": "2:0"
+    },
+    {
+        "date": "Saturday 13 Dec 2025",
+        "time": "19:00",
+        "home": "Solway Sharks",
+        "away": "Swindon Wildcats",
+        "score": "2:3 OT"
+    },
+    {
+        "date": "Sunday 14 Dec 2025",
+        "time": "16:00",
+        "home": "Sheffield Steeldogs",
+        "away": "Milton Keynes Lightning",
+        "score": "7:3"
+    },
+    {
+        "date": "Sunday 14 Dec 2025",
+        "time": "16:15",
+        "home": "Leeds Knights",
+        "away": "Swindon Wildcats",
+        "score": "3:5"
+    },
+    {
+        "date": "Sunday 14 Dec 2025",
+        "time": "17:15",
+        "home": "Romford Raiders",
+        "away": "Hull Seahawks",
+        "score": "4:5 OT"
+    },
+    {
+        "date": "Sunday 14 Dec 2025",
+        "time": "17:30",
+        "home": "Peterborough Phantoms",
+        "away": "Solway Sharks",
+        "score": "4:2"
+    },
+    {
+        "date": "Sunday 14 Dec 2025",
+        "time": "18:00",
+        "home": "Telford Tigers",
+        "away": "Basingstoke Bison",
+        "score": "7:4"
+    },
+    {
+        "date": "Friday 19 Dec 2025",
+        "time": "19:30",
+        "home": "Leeds Knights",
+        "away": "Hull Seahawks",
+        "score": "5:1"
+    },
+    {
+        "date": "Friday 19 Dec 2025",
+        "time": "19:30",
+        "home": "Sheffield Steeldogs",
+        "away": "Telford Tigers",
+        "score": "8:3"
+    },
+    {
+        "date": "Saturday 20 Dec 2025",
+        "time": "17:30",
+        "home": "Hull Seahawks",
+        "away": "Sheffield Steeldogs",
+        "score": "3:1"
+    },
+    {
+        "date": "Saturday 20 Dec 2025",
+        "time": "18:30",
+        "home": "Swindon Wildcats",
+        "away": "Milton Keynes Lightning",
+        "score": "4:2"
+    },
+    {
+        "date": "Saturday 20 Dec 2025",
+        "time": "19:00",
+        "home": "Bristol Pitbulls",
+        "away": "Basingstoke Bison",
+        "score": "3:5"
+    },
+    {
+        "date": "Saturday 20 Dec 2025",
+        "time": "19:00",
+        "home": "Peterborough Phantoms",
+        "away": "Romford Raiders",
+        "score": "4:1"
+    },
+    {
+        "date": "Saturday 20 Dec 2025",
+        "time": "19:00",
+        "home": "Solway Sharks",
+        "away": "Leeds Knights",
+        "score": "2:0"
+    },
+    {
+        "date": "Sunday 21 Dec 2025",
+        "time": "16:15",
+        "home": "Basingstoke Bison",
+        "away": "Bristol Pitbulls",
+        "score": "3:1"
+    },
+    {
+        "date": "Sunday 21 Dec 2025",
+        "time": "17:15",
+        "home": "Romford Raiders",
+        "away": "Peterborough Phantoms",
+        "score": "3:5"
+    },
+    {
+        "date": "Sunday 21 Dec 2025",
+        "time": "17:30",
+        "home": "Milton Keynes Lightning",
+        "away": "Swindon Wildcats",
+        "score": "3:0"
+    },
+    {
+        "date": "Sunday 21 Dec 2025",
+        "time": "18:00",
+        "home": "Telford Tigers",
+        "away": "Solway Sharks",
+        "score": "7:3"
+    },
+    {
+        "date": "Friday 26 Dec 2025",
+        "time": "14:00",
+        "home": "Hull Seahawks",
+        "away": "Leeds Knights",
+        "score": "1:6"
+    },
+    {
+        "date": "Saturday 27 Dec 2025",
+        "time": "18:30",
+        "home": "Leeds Knights",
+        "away": "Sheffield Steeldogs",
+        "score": "4:6"
+    },
+    {
+        "date": "Saturday 27 Dec 2025",
+        "time": "18:30",
+        "home": "Basingstoke Bison",
+        "away": "Romford Raiders",
+        "score": "3:2"
+    },
+    {
+        "date": "Saturday 27 Dec 2025",
+        "time": "19:00",
+        "home": "Bristol Pitbulls",
+        "away": "Swindon Wildcats",
+        "score": "1:0 OT"
+    },
+    {
+        "date": "Saturday 27 Dec 2025",
+        "time": "19:00",
+        "home": "Milton Keynes Lightning",
+        "away": "Peterborough Phantoms",
+        "score": "5:3"
+    },
+    {
+        "date": "Saturday 27 Dec 2025",
+        "time": "19:00",
+        "home": "Solway Sharks",
+        "away": "Telford Tigers",
+        "score": "5:6"
+    },
+    {
+        "date": "Sunday 28 Dec 2025",
+        "time": "16:00",
+        "home": "Sheffield Steeldogs",
+        "away": "Solway Sharks",
+        "score": "8:5"
+    },
+    {
+        "date": "Sunday 28 Dec 2025",
+        "time": "17:15",
+        "home": "Romford Raiders",
+        "away": "Basingstoke Bison",
+        "score": "4:2"
+    },
+    {
+        "date": "Sunday 28 Dec 2025",
+        "time": "17:30",
+        "home": "Peterborough Phantoms",
+        "away": "Milton Keynes Lightning",
+        "score": "8:6"
+    },
+    {
+        "date": "Sunday 28 Dec 2025",
+        "time": "18:00",
+        "home": "Telford Tigers",
+        "away": "Hull Seahawks",
+        "score": "4:2"
+    },
+    {
+        "date": "Sunday 28 Dec 2025",
+        "time": "18:30",
+        "home": "Swindon Wildcats",
+        "away": "Bristol Pitbulls",
+        "score": "5:3"
+    },
+    {
+        "date": "Wednesday 31 Dec 2025",
+        "time": "13:00",
+        "home": "Sheffield Steeldogs",
+        "away": "Leeds Knights",
+        "score": "2:4"
+    },
+    {
+        "date": "Thursday 1 Jan 2026",
+        "time": "16:00",
+        "home": "Swindon Wildcats",
+        "away": "Basingstoke Bison",
+        "score": "6:2"
+    },
+    {
+        "date": "Friday 2 Jan 2026",
+        "time": "19:15",
+        "home": "Romford Raiders",
+        "away": "Milton Keynes Lightning",
+        "score": "3:6"
+    },
+    {
+        "date": "Saturday 3 Jan 2026",
+        "time": "18:30",
+        "home": "Basingstoke Bison",
+        "away": "Peterborough Phantoms",
+        "score": "4:2"
+    },
+    {
+        "date": "Saturday 3 Jan 2026",
+        "time": "19:00",
+        "home": "Bristol Pitbulls",
+        "away": "Sheffield Steeldogs",
+        "score": "1:3"
+    },
+    {
+        "date": "Saturday 3 Jan 2026",
+        "time": "19:00",
+        "home": "Milton Keynes Lightning",
+        "away": "Telford Tigers",
+        "score": "3:6"
+    },
+    {
+        "date": "Saturday 3 Jan 2026",
+        "time": "19:00",
+        "home": "Solway Sharks",
+        "away": "Hull Seahawks",
+        "score": "5:2"
+    },
+    {
+        "date": "Sunday 4 Jan 2026",
+        "time": "16:00",
+        "home": "Sheffield Steeldogs",
+        "away": "Bristol Pitbulls",
+        "score": "4:3"
+    },
+    {
+        "date": "Sunday 4 Jan 2026",
+        "time": "17:15",
+        "home": "Leeds Knights",
+        "away": "Basingstoke Bison",
+        "score": "4:1"
+    },
+    {
+        "date": "Sunday 4 Jan 2026",
+        "time": "17:30",
+        "home": "Hull Seahawks",
+        "away": "Solway Sharks",
+        "score": "6:5"
+    },
+    {
+        "date": "Sunday 4 Jan 2026",
+        "time": "17:30",
+        "home": "Peterborough Phantoms",
+        "away": "Swindon Wildcats",
+        "score": "4:5 OT"
+    },
+    {
+        "date": "Sunday 4 Jan 2026",
+        "time": "18:00",
+        "home": "Telford Tigers",
+        "away": "Romford Raiders",
+        "score": "10:2"
+    },
+    {
+        "date": "Friday 9 Jan 2026",
+        "time": "19:30",
+        "home": "Basingstoke Bison",
+        "away": "Romford Raiders",
+        "score": "0:3"
+    },
+    {
+        "date": "Friday 9 Jan 2026",
+        "time": "19:30",
+        "home": "Solway Sharks",
+        "away": "Sheffield Steeldogs",
+        "score": "2:5"
+    },
+    {
+        "date": "Saturday 10 Jan 2026",
+        "time": "18:30",
+        "home": "Leeds Knights",
+        "away": "Peterborough Phantoms",
+        "score": "3:5"
+    },
+    {
+        "date": "Saturday 10 Jan 2026",
+        "time": "18:30",
+        "home": "Swindon Wildcats",
+        "away": "Telford Tigers",
+        "score": "9:1"
+    },
+    {
+        "date": "Saturday 10 Jan 2026",
+        "time": "19:00",
+        "home": "Bristol Pitbulls",
+        "away": "Romford Raiders",
+        "score": "4:2"
+    },
+    {
+        "date": "Saturday 10 Jan 2026",
+        "time": "19:00",
+        "home": "Milton Keynes Lightning",
+        "away": "Hull Seahawks",
+        "score": "6:4"
+    },
+    {
+        "date": "Saturday 10 Jan 2026",
+        "time": "19:00",
+        "home": "Solway Sharks",
+        "away": "Basingstoke Bison",
+        "score": "5:4 OT"
+    },
+    {
+        "date": "Sunday 11 Jan 2026",
+        "time": "17:00",
+        "home": "Solway Sharks",
+        "away": "Basingstoke Bison",
+        "score": "5:2"
+    },
+    {
+        "date": "Sunday 11 Jan 2026",
+        "time": "17:15",
+        "home": "Romford Raiders",
+        "away": "Swindon Wildcats",
+        "score": "4:5"
+    },
+    {
+        "date": "Sunday 11 Jan 2026",
+        "time": "17:30",
+        "home": "Hull Seahawks",
+        "away": "Milton Keynes Lightning",
+        "score": "7:5"
+    },
+    {
+        "date": "Sunday 11 Jan 2026",
+        "time": "17:30",
+        "home": "Peterborough Phantoms",
+        "away": "Bristol Pitbulls",
+        "score": "4:5 SO"
+    },
+    {
+        "date": "Sunday 11 Jan 2026",
+        "time": "18:00",
+        "home": "Telford Tigers",
+        "away": "Sheffield Steeldogs",
+        "score": "6:3"
+    },
+    {
+        "date": "Saturday 17 Jan 2026",
+        "time": "18:30",
+        "home": "Swindon Wildcats",
+        "away": "Sheffield Steeldogs",
+        "score": "6:3"
+    },
+    {
+        "date": "Saturday 17 Jan 2026",
+        "time": "18:30",
+        "home": "Basingstoke Bison",
+        "away": "Hull Seahawks",
+        "score": "1:5"
+    },
+    {
+        "date": "Saturday 17 Jan 2026",
+        "time": "19:00",
+        "home": "Bristol Pitbulls",
+        "away": "Leeds Knights",
+        "score": "6:5 OT"
+    },
+    {
+        "date": "Saturday 17 Jan 2026",
+        "time": "19:00",
+        "home": "Solway Sharks",
+        "away": "Milton Keynes Lightning",
+        "score": "5:4"
+    },
+    {
+        "date": "Saturday 17 Jan 2026",
+        "time": "19:00",
+        "home": "Telford Tigers",
+        "away": "Peterborough Phantoms",
+        "score": "3:4 OT"
+    },
+    {
+        "date": "Sunday 18 Jan 2026",
+        "time": "16:15",
+        "home": "Leeds Knights",
+        "away": "Bristol Pitbulls",
+        "score": "5:2"
+    },
+    {
+        "date": "Sunday 18 Jan 2026",
+        "time": "17:00",
+        "home": "Solway Sharks",
+        "away": "Milton Keynes Lightning",
+        "score": "4:5 OT"
+    },
+    {
+        "date": "Sunday 18 Jan 2026",
+        "time": "17:15",
+        "home": "Romford Raiders",
+        "away": "Telford Tigers",
+        "score": "4:1"
+    },
+    {
+        "date": "Sunday 18 Jan 2026",
+        "time": "17:30",
+        "home": "Hull Seahawks",
+        "away": "Swindon Wildcats",
+        "score": "3:4"
+    },
+    {
+        "date": "Sunday 18 Jan 2026",
+        "time": "17:30",
+        "home": "Peterborough Phantoms",
+        "away": "Basingstoke Bison",
+        "score": "5:3"
+    },
+    {
+        "date": "Friday 23 Jan 2026",
+        "time": "19:30",
+        "home": "Sheffield Steeldogs",
+        "away": "Basingstoke Bison",
+        "score": "4:2"
+    },
+    {
+        "date": "Saturday 24 Jan 2026",
+        "time": "17:15",
+        "home": "Romford Raiders",
+        "away": "Peterborough Phantoms",
+        "score": "2:4"
+    },
+    {
+        "date": "Saturday 24 Jan 2026",
+        "time": "18:30",
+        "home": "Leeds Knights",
+        "away": "Telford Tigers",
+        "score": "4:2"
+    },
+    {
+        "date": "Saturday 24 Jan 2026",
+        "time": "18:30",
+        "home": "Swindon Wildcats",
+        "away": "Milton Keynes Lightning",
+        "score": "5:3"
+    },
+    {
+        "date": "Saturday 24 Jan 2026",
+        "time": "18:30",
+        "home": "Basingstoke Bison",
+        "away": "Solway Sharks",
+        "score": "4:3 OT"
+    },
+    {
+        "date": "Saturday 24 Jan 2026",
+        "time": "19:00",
+        "home": "Bristol Pitbulls",
+        "away": "Hull Seahawks",
+        "score": "2:6"
+    },
+    {
+        "date": "Sunday 25 Jan 2026",
+        "time": "17:00",
+        "home": "Solway Sharks",
+        "away": "Sheffield Steeldogs",
+        "score": "3:8"
+    },
+    {
+        "date": "Sunday 25 Jan 2026",
+        "time": "17:30",
+        "home": "Hull Seahawks",
+        "away": "Bristol Pitbulls",
+        "score": "7:4"
+    },
+    {
+        "date": "Sunday 25 Jan 2026",
+        "time": "17:30",
+        "home": "Milton Keynes Lightning",
+        "away": "Basingstoke Bison",
+        "score": "4:1"
+    },
+    {
+        "date": "Sunday 25 Jan 2026",
+        "time": "17:30",
+        "home": "Peterborough Phantoms",
+        "away": "Leeds Knights",
+        "score": "4:5 OT"
+    },
+    {
+        "date": "Sunday 25 Jan 2026",
+        "time": "18:00",
+        "home": "Telford Tigers",
+        "away": "Swindon Wildcats",
+        "score": "4:3"
+    },
+    {
+        "date": "Friday 30 Jan 2026",
+        "time": "19:30",
+        "home": "Basingstoke Bison",
+        "away": "Swindon Wildcats",
+        "score": "6:7 OT"
+    },
+    {
+        "date": "Saturday 31 Jan 2026",
+        "time": "18:30",
+        "home": "Swindon Wildcats",
+        "away": "Hull Seahawks",
+        "score": "6:1"
+    },
+    {
+        "date": "Saturday 31 Jan 2026",
+        "time": "19:00",
+        "home": "Bristol Pitbulls",
+        "away": "Romford Raiders",
+        "score": "3:7"
+    },
+    {
+        "date": "Saturday 31 Jan 2026",
+        "time": "19:00",
+        "home": "Milton Keynes Lightning",
+        "away": "Leeds Knights",
+        "score": "5:1"
+    },
+    {
+        "date": "Saturday 31 Jan 2026",
+        "time": "19:00",
+        "home": "Sheffield Steeldogs",
+        "away": "Peterborough Phantoms",
+        "score": "6:1"
+    },
+    {
+        "date": "Saturday 31 Jan 2026",
+        "time": "19:00",
+        "home": "Solway Sharks",
+        "away": "Telford Tigers",
+        "score": "7:2"
+    },
+    {
+        "date": "Sunday 1 Feb 2026",
+        "time": "16:15",
+        "home": "Leeds Knights",
+        "away": "Milton Keynes Lightning",
+        "score": "7:5"
+    },
+    {
+        "date": "Sunday 1 Feb 2026",
+        "time": "17:15",
+        "home": "Romford Raiders",
+        "away": "Bristol Pitbulls",
+        "score": "10:1"
+    },
+    {
+        "date": "Sunday 1 Feb 2026",
+        "time": "17:30",
+        "home": "Hull Seahawks",
+        "away": "Basingstoke Bison",
+        "score": "4:1"
+    },
+    {
+        "date": "Sunday 1 Feb 2026",
+        "time": "17:30",
+        "home": "Peterborough Phantoms",
+        "away": "Sheffield Steeldogs",
+        "score": "7:4"
+    },
+    {
+        "date": "Sunday 1 Feb 2026",
+        "time": "18:00",
+        "home": "Telford Tigers",
+        "away": "Solway Sharks",
+        "score": "7:5"
+    },
+    {
+        "date": "Friday 6 Feb 2026",
+        "time": "19:30",
+        "home": "Swindon Wildcats",
+        "away": "Leeds Knights",
+        "score": "5:1"
+    },
+    {
+        "date": "Saturday 7 Feb 2026",
+        "time": "17:30",
+        "home": "Hull Seahawks",
+        "away": "Telford Tigers",
+        "score": "6:3"
+    },
+    {
+        "date": "Saturday 7 Feb 2026",
+        "time": "18:30",
+        "home": "Swindon Wildcats",
+        "away": "Romford Raiders",
+        "score": "2:5"
+    },
+    {
+        "date": "Saturday 7 Feb 2026",
+        "time": "18:30",
+        "home": "Basingstoke Bison",
+        "away": "Peterborough Phantoms",
+        "score": "4:5 SO"
+    },
+    {
+        "date": "Saturday 7 Feb 2026",
+        "time": "19:00",
+        "home": "Milton Keynes Lightning",
+        "away": "Sheffield Steeldogs",
+        "score": "6:2"
+    },
+    {
+        "date": "Saturday 7 Feb 2026",
+        "time": "19:00",
+        "home": "Solway Sharks",
+        "away": "Bristol Pitbulls",
+        "score": "4:0"
+    },
+    {
+        "date": "Sunday 8 Feb 2026",
+        "time": "17:00",
+        "home": "Solway Sharks",
+        "away": "Bristol Pitbulls",
+        "score": "6:3"
+    },
+    {
+        "date": "Sunday 8 Feb 2026",
+        "time": "17:15",
+        "home": "Romford Raiders",
+        "away": "Hull Seahawks",
+        "score": "3:6"
+    },
+    {
+        "date": "Sunday 8 Feb 2026",
+        "time": "17:30",
+        "home": "Peterborough Phantoms",
+        "away": "Leeds Knights",
+        "score": "5:4"
+    },
+    {
+        "date": "Sunday 8 Feb 2026",
+        "time": "18:00",
+        "home": "Telford Tigers",
+        "away": "Basingstoke Bison",
+        "score": "6:4"
+    },
+    {
+        "date": "Friday 13 Feb 2026",
+        "time": "19:30",
+        "home": "Leeds Knights",
+        "away": "Swindon Wildcats",
+        "score": "6:3"
+    },
+    {
+        "date": "Friday 13 Feb 2026",
+        "time": "19:30",
+        "home": "Basingstoke Bison",
+        "away": "Hull Seahawks",
+        "score": "0:3"
+    },
+    {
+        "date": "Saturday 14 Feb 2026",
+        "time": "18:30",
+        "home": "Swindon Wildcats",
+        "away": "Solway Sharks",
+        "score": "4:5"
+    },
+    {
+        "date": "Saturday 14 Feb 2026",
+        "time": "18:30",
+        "home": "Basingstoke Bison",
+        "away": "Bristol Pitbulls",
+        "score": "5:4 OT"
+    },
+    {
+        "date": "Saturday 14 Feb 2026",
+        "time": "19:00",
+        "home": "Milton Keynes Lightning",
+        "away": "Romford Raiders",
+        "score": "4:6"
+    },
+    {
+        "date": "Saturday 14 Feb 2026",
+        "time": "19:00",
+        "home": "Sheffield Steeldogs",
+        "away": "Leeds Knights",
+        "score": "1:2"
+    },
+    {
+        "date": "Saturday 14 Feb 2026",
+        "time": "19:00",
+        "home": "Telford Tigers",
+        "away": "Peterborough Phantoms",
+        "score": "7:4"
+    },
+    {
+        "date": "Sunday 15 Feb 2026",
+        "time": "17:00",
+        "home": "Bristol Pitbulls",
+        "away": "Sheffield Steeldogs",
+        "score": "6:5"
+    },
+    {
+        "date": "Sunday 15 Feb 2026",
+        "time": "17:15",
+        "home": "Romford Raiders",
+        "away": "Leeds Knights",
+        "score": "4:3"
+    },
+    {
+        "date": "Sunday 15 Feb 2026",
+        "time": "17:30",
+        "home": "Hull Seahawks",
+        "away": "Milton Keynes Lightning",
+        "score": "5:1"
+    },
+    {
+        "date": "Sunday 15 Feb 2026",
+        "time": "17:30",
+        "home": "Peterborough Phantoms",
+        "away": "Solway Sharks",
+        "score": "4:1"
+    },
+    {
+        "date": "Tuesday 17 Feb 2026",
+        "time": "19:30",
+        "home": "Sheffield Steeldogs",
+        "away": "Telford Tigers",
+        "score": "2:4"
+    },
+    {
+        "date": "Wednesday 18 Feb 2026",
+        "time": "19:30",
+        "home": "Bristol Pitbulls",
+        "away": "Swindon Wildcats",
+        "score": "5:6 OT"
+    },
+    {
+        "date": "Wednesday 18 Feb 2026",
+        "time": "19:30",
+        "home": "Hull Seahawks",
+        "away": "Leeds Knights",
+        "score": "3:2 SO"
+    },
+    {
+        "date": "Wednesday 18 Feb 2026",
+        "time": "19:30",
+        "home": "Peterborough Phantoms",
+        "away": "Romford Raiders",
+        "score": "2:5"
+    },
+    {
+        "date": "Thursday 19 Feb 2026",
+        "time": "19:30",
+        "home": "Basingstoke Bison",
+        "away": "Milton Keynes Lightning",
+        "score": "3:4"
+    },
+    {
+        "date": "Friday 20 Feb 2026",
+        "time": "19:30",
+        "home": "Leeds Knights",
+        "away": "Hull Seahawks",
+        "score": "1:4"
+    },
+    {
+        "date": "Saturday 21 Feb 2026",
+        "time": "18:30",
+        "home": "Swindon Wildcats",
+        "away": "Basingstoke Bison",
+        "score": "4:2"
+    },
+    {
+        "date": "Saturday 21 Feb 2026",
+        "time": "19:00",
+        "home": "Bristol Pitbulls",
+        "away": "Peterborough Phantoms",
+        "score": "6:7 OT"
+    },
+    {
+        "date": "Saturday 21 Feb 2026",
+        "time": "19:00",
+        "home": "Milton Keynes Lightning",
+        "away": "Telford Tigers",
+        "score": "8:2"
+    },
+    {
+        "date": "Saturday 21 Feb 2026",
+        "time": "19:00",
+        "home": "Sheffield Steeldogs",
+        "away": "Romford Raiders",
+        "score": "3:2"
+    },
+    {
+        "date": "Saturday 21 Feb 2026",
+        "time": "19:00",
+        "home": "Solway Sharks",
+        "away": "Leeds Knights",
+        "score": "5:3"
+    },
+    {
+        "date": "Sunday 22 Feb 2026",
+        "time": "16:15",
+        "home": "Basingstoke Bison",
+        "away": "Solway Sharks",
+        "score": "3:2 SO"
+    },
+    {
+        "date": "Sunday 22 Feb 2026",
+        "time": "17:15",
+        "home": "Romford Raiders",
+        "away": "Sheffield Steeldogs",
+        "score": "4:5 OT"
+    },
+    {
+        "date": "Sunday 22 Feb 2026",
+        "time": "17:30",
+        "home": "Hull Seahawks",
+        "away": "Swindon Wildcats",
+        "score": "4:3"
+    },
+    {
+        "date": "Sunday 22 Feb 2026",
+        "time": "17:30",
+        "home": "Peterborough Phantoms",
+        "away": "Bristol Pitbulls",
+        "score": "8:3"
+    },
+    {
+        "date": "Sunday 22 Feb 2026",
+        "time": "18:00",
+        "home": "Telford Tigers",
+        "away": "Milton Keynes Lightning",
+        "score": "4:6"
+    },
+    {
+        "date": "Friday 27 Feb 2026",
+        "time": "19:30",
+        "home": "Swindon Wildcats",
+        "away": "Bristol Pitbulls",
+        "score": "-:-"
+    },
+    {
+        "date": "Saturday 28 Feb 2026",
+        "time": "18:30",
+        "home": "Basingstoke Bison",
+        "away": "Leeds Knights",
+        "score": "-:-"
+    },
+    {
+        "date": "Saturday 28 Feb 2026",
+        "time": "19:00",
+        "home": "Milton Keynes Lightning",
+        "away": "Peterborough Phantoms",
+        "score": "-:-"
+    },
+    {
+        "date": "Saturday 28 Feb 2026",
+        "time": "19:00",
+        "home": "Sheffield Steeldogs",
+        "away": "Swindon Wildcats",
+        "score": "-:-"
+    },
+    {
+        "date": "Saturday 28 Feb 2026",
+        "time": "19:00",
+        "home": "Solway Sharks",
+        "away": "Hull Seahawks",
+        "score": "-:-"
+    },
+    {
+        "date": "Saturday 28 Feb 2026",
+        "time": "19:00",
+        "home": "Telford Tigers",
+        "away": "Romford Raiders",
+        "score": "-:-"
+    },
+    {
+        "date": "Sunday 1 Mar 2026",
+        "time": "16:15",
+        "home": "Leeds Knights",
+        "away": "Basingstoke Bison",
+        "score": "-:-"
+    },
+    {
+        "date": "Sunday 1 Mar 2026",
+        "time": "17:00",
+        "home": "Bristol Pitbulls",
+        "away": "Solway Sharks",
+        "score": "-:-"
+    },
+    {
+        "date": "Sunday 1 Mar 2026",
+        "time": "17:15",
+        "home": "Romford Raiders",
+        "away": "Milton Keynes Lightning",
+        "score": "-:-"
+    },
+    {
+        "date": "Sunday 1 Mar 2026",
+        "time": "17:30",
+        "home": "Hull Seahawks",
+        "away": "Sheffield Steeldogs",
+        "score": "-:-"
+    },
+    {
+        "date": "Sunday 1 Mar 2026",
+        "time": "17:30",
+        "home": "Peterborough Phantoms",
+        "away": "Telford Tigers",
+        "score": "-:-"
+    },
+    {
+        "date": "Friday 6 Mar 2026",
+        "time": "19:00",
+        "home": "Leeds Knights",
+        "away": "Sheffield Steeldogs",
+        "score": "-:-"
+    },
+    {
+        "date": "Friday 6 Mar 2026",
+        "time": "19:30",
+        "home": "Basingstoke Bison",
+        "away": "Solway Sharks",
+        "score": "-:-"
+    },
+    {
+        "date": "Saturday 7 Mar 2026",
+        "time": "17:30",
+        "home": "Hull Seahawks",
+        "away": "Peterborough Phantoms",
+        "score": "-:-"
+    },
+    {
+        "date": "Saturday 7 Mar 2026",
+        "time": "18:30",
+        "home": "Swindon Wildcats",
+        "away": "Leeds Knights",
+        "score": "-:-"
+    },
+    {
+        "date": "Saturday 7 Mar 2026",
+        "time": "18:30",
+        "home": "Basingstoke Bison",
+        "away": "Romford Raiders",
+        "score": "-:-"
+    },
+    {
+        "date": "Saturday 7 Mar 2026",
+        "time": "19:00",
+        "home": "Bristol Pitbulls",
+        "away": "Milton Keynes Lightning",
+        "score": "-:-"
+    },
+    {
+        "date": "Saturday 7 Mar 2026",
+        "time": "19:00",
+        "home": "Solway Sharks",
+        "away": "Telford Tigers",
+        "score": "-:-"
+    },
+    {
+        "date": "Sunday 8 Mar 2026",
+        "time": "17:15",
+        "home": "Romford Raiders",
+        "away": "Basingstoke Bison",
+        "score": "-:-"
+    },
+    {
+        "date": "Sunday 8 Mar 2026",
+        "time": "17:30",
+        "home": "Milton Keynes Lightning",
+        "away": "Bristol Pitbulls",
+        "score": "-:-"
+    },
+    {
+        "date": "Sunday 8 Mar 2026",
+        "time": "17:30",
+        "home": "Peterborough Phantoms",
+        "away": "Swindon Wildcats",
+        "score": "-:-"
+    },
+    {
+        "date": "Sunday 8 Mar 2026",
+        "time": "18:00",
+        "home": "Telford Tigers",
+        "away": "Hull Seahawks",
+        "score": "-:-"
+    },
+    {
+        "date": "Friday 13 Mar 2026",
+        "time": "19:30",
+        "home": "Sheffield Steeldogs",
+        "away": "Hull Seahawks",
+        "score": "-:-"
+    },
+    {
+        "date": "Saturday 14 Mar 2026",
+        "time": "18:30",
+        "home": "Leeds Knights",
+        "away": "Romford Raiders",
+        "score": "-:-"
+    },
+    {
+        "date": "Saturday 14 Mar 2026",
+        "time": "18:30",
+        "home": "Swindon Wildcats",
+        "away": "Peterborough Phantoms",
+        "score": "-:-"
+    },
+    {
+        "date": "Saturday 14 Mar 2026",
+        "time": "19:00",
+        "home": "Bristol Pitbulls",
+        "away": "Telford Tigers",
+        "score": "-:-"
+    },
+    {
+        "date": "Saturday 14 Mar 2026",
+        "time": "19:00",
+        "home": "Milton Keynes Lightning",
+        "away": "Basingstoke Bison",
+        "score": "-:-"
+    },
+    {
+        "date": "Saturday 14 Mar 2026",
+        "time": "19:00",
+        "home": "Solway Sharks",
+        "away": "Sheffield Steeldogs",
+        "score": "-:-"
+    },
+    {
+        "date": "Sunday 15 Mar 2026",
+        "time": "16:15",
+        "home": "Basingstoke Bison",
+        "away": "Swindon Wildcats",
+        "score": "-:-"
+    },
+    {
+        "date": "Sunday 15 Mar 2026",
+        "time": "17:15",
+        "home": "Romford Raiders",
+        "away": "Solway Sharks",
+        "score": "-:-"
+    },
+    {
+        "date": "Sunday 15 Mar 2026",
+        "time": "17:30",
+        "home": "Hull Seahawks",
+        "away": "Bristol Pitbulls",
+        "score": "-:-"
+    },
+    {
+        "date": "Sunday 15 Mar 2026",
+        "time": "17:30",
+        "home": "Peterborough Phantoms",
+        "away": "Milton Keynes Lightning",
+        "score": "-:-"
+    },
+    {
+        "date": "Sunday 15 Mar 2026",
+        "time": "18:00",
+        "home": "Telford Tigers",
+        "away": "Leeds Knights",
+        "score": "-:-"
+    },
+    {
+        "date": "Friday 20 Mar 2026",
+        "time": "19:30",
+        "home": "Milton Keynes Lightning",
+        "away": "Romford Raiders",
+        "score": "-:-"
+    },
+    {
+        "date": "Saturday 21 Mar 2026",
+        "time": "18:30",
+        "home": "Swindon Wildcats",
+        "away": "Sheffield Steeldogs",
+        "score": "-:-"
+    },
+    {
+        "date": "Saturday 21 Mar 2026",
+        "time": "18:30",
+        "home": "Basingstoke Bison",
+        "away": "Telford Tigers",
+        "score": "-:-"
+    },
+    {
+        "date": "Saturday 21 Mar 2026",
+        "time": "19:00",
+        "home": "Bristol Pitbulls",
+        "away": "Leeds Knights",
+        "score": "-:-"
+    },
+    {
+        "date": "Saturday 21 Mar 2026",
+        "time": "19:00",
+        "home": "Peterborough Phantoms",
+        "away": "Hull Seahawks",
+        "score": "-:-"
+    },
+    {
+        "date": "Saturday 21 Mar 2026",
+        "time": "19:00",
+        "home": "Solway Sharks",
+        "away": "Milton Keynes Lightning",
+        "score": "-:-"
+    },
+    {
+        "date": "Sunday 22 Mar 2026",
+        "time": "16:00",
+        "home": "Sheffield Steeldogs",
+        "away": "Basingstoke Bison",
+        "score": "-:-"
+    },
+    {
+        "date": "Sunday 22 Mar 2026",
+        "time": "16:15",
+        "home": "Leeds Knights",
+        "away": "Peterborough Phantoms",
+        "score": "-:-"
+    },
+    {
+        "date": "Sunday 22 Mar 2026",
+        "time": "17:15",
+        "home": "Romford Raiders",
+        "away": "Swindon Wildcats",
+        "score": "-:-"
+    },
+    {
+        "date": "Sunday 22 Mar 2026",
+        "time": "17:30",
+        "home": "Hull Seahawks",
+        "away": "Solway Sharks",
+        "score": "-:-"
+    },
+    {
+        "date": "Sunday 22 Mar 2026",
+        "time": "18:00",
+        "home": "Telford Tigers",
+        "away": "Bristol Pitbulls",
+        "score": "-:-"
+    }
+]
