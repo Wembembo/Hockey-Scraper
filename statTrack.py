@@ -36,6 +36,7 @@ for index, row in enumerate(rows, start=1):
     #dictionary for each row
     stats_entry = dict(zip(keys, row_data))
 
+    #Fix for rank in league not coming through. 
     if "Rank" not in stats_entry:
         stats_entry["Rank"] = index
     standings.append(stats_entry)
