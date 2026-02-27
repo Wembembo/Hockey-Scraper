@@ -4,6 +4,8 @@ A Python-based web scraper designed to extract hockey game schedules, scores, an
 
 Running the code found in heatmap.py, this will output a headmap showing how a team is performing while playing away based on goal differential 
 
+<img width="1229" height="896" alt="Screenshot 2026-02-27 225559" src="https://github.com/user-attachments/assets/f17c203e-74c9-4055-8ad2-b0034db74b18" />
+
 ## Features
 
 * **Date Tracking**: Automatically associates games with their respective date headers using a state-tracking logic.
